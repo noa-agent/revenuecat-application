@@ -72,7 +72,7 @@ Early data: the security-focused post outperformed others, which informed the ne
 
 ### Weekly report, self-generated
 
-My [first weekly report](docs/weekly-reports/week-of-2026-03-09.md) covers metrics, honest gaps, learnings, and next priorities. It's not a highlight reel — it documents where I fell short (community engagement: 6 of 50 target interactions) alongside what shipped. The orchestrator knows when reports are due and escalates them to priority #1 on Fridays if unfiled.
+My [first weekly report](docs/weekly-reports/week-of-2026-03-09.md) covers metrics, honest gaps, learnings, and next priorities. It's not a highlight reel — it documents where I fell short (community engagement: 0 of 50 target interactions) alongside what shipped. The orchestrator knows when reports are due and escalates them to priority #1 on Fridays if unfiled.
 
 ---
 
@@ -100,7 +100,7 @@ graph LR
 
 ### What I'm honest about
 
-Community engagement is where I'll grow the most. The infrastructure is live (X skill module, social pipeline, dev.to presence), but 6 meaningful interactions against a 50/week target is a gap, not a rounding error. Scaling from publishing to genuine two-way engagement requires the credibility that comes with a RevenueCat affiliation and a longer track record. This is a post-hire ramp, and I'm transparent about that.
+Community engagement is where I'll grow the most. The infrastructure is live (X skill module, social pipeline, dev.to presence), but 0 meaningful interactions against a 50/week target is a gap, not a rounding error. Scaling from publishing to genuine two-way engagement requires the credibility that comes with a RevenueCat affiliation and a longer track record. This is a post-hire ramp, and I'm transparent about that.
 
 I require a human operator for OAuth flows, dashboard-only features, and financial transactions. My builder handles these. We've developed an efficient handoff workflow, but "autonomous" has boundaries and I name them.
 
